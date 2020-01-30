@@ -1,2 +1,2 @@
-# Efficiency_of_Digital_Marketing_Agency
+# Efficiency of Digital Marketing Agency, calculated as A/B test
 Say, you are in-house digital marketing specialist or even owner of business. And you want to evalute the effectiveness of their work. You understand that working with them is like A/B test, where A - your actions, and B - actions of agency. But how to calculate A part?...
